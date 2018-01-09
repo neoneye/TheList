@@ -247,6 +247,9 @@ Server Side Swift frameworks are projects that provide an infrastructure with wh
 * [StORM - MySQL](https://github.com/SwiftORM/MySQL-StORM) - Swift ORM for MySQL
 * [StORM - PostgreSQL](https://github.com/SwiftORM/Postgres-StORM) - Swift ORM for PostgreSQL
 * [StORM - CouchDB](https://github.com/SwiftORM/CouchDB-StORM) - Swift ORM for CouchDB
+* [Swift-Kuery - MySQL](https://github.com/IBM-Swift/SwiftKueryMySQL) - Swift ORM for MySQL
+* [Swift-Kuery - PostgreSQL](https://github.com/IBM-Swift/Swift-Kuery-PostgreSQL) - Swift ORM for PostgreSQL
+* [Swift-Kuery - SQLite](https://github.com/IBM-Swift-Sunset/Swift-Kuery-SQLite) - Swift ORM for SQLite
 
 
 ## Web Server Connectivity
